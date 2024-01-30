@@ -44,3 +44,13 @@ socialmedia=# \dt
  public | django_session             | table | post_user
  public | posts_post                 | table | post_user
 ```
+
+## Create Posts 
+
+Enter Name and Category of the Post
+
+![Screenshot 2024-01-30 at 5 23 01 PM](https://github.com/kiranpers/social_media_django/assets/8075190/a87f0426-edfc-48d5-8e77-3f12e366fb8a)
+
+## List posts
+
+![Screenshot 2024-01-30 at 5 23 24 PM](https://github.com/kiranpers/social_media_django/assets/8075190/6d6ad6da-123e-4430-9de8-897b43628086)
